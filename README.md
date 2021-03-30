@@ -63,4 +63,12 @@ If you want to preserve transparent parts please uncomment all the alpha channel
 ### Reference Code
 Some code both from me and the referenced links used to make the program. Use these if you just want to change the hue and do nothing else. Although setting the color_step parameter to 1 gives you all possible hues anyway, so really only do to get in-depth. (Also still has alpha channel code uncommented so can use it to get single transparent variations by selecting for bgra) 
 
+## Can Even Use on Your Phone (and on Memes!)
+Made all these on my phone:
+
+![GIF_Source](gifs/dogememe1_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+![GIF_Source](gifs/dogememe1_HueShiftGIF_color_step_145_duration_10_loop_0.gif)
+![GIF_Source](gifs/dogememe2_HueShiftGIF_color_step_35_duration_500_loop_0.gif)
+![GIF_Source](gifs/dogememe3_HueShiftGIF_color_step_20_duration_1000_loop_0.gif)
+
 
