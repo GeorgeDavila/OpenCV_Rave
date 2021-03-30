@@ -14,7 +14,7 @@ Make Color Changing GIFs in OpenCV! (Scroll down for How to use guide)
 ![GIF_Source](gifs/inca_monkey_pink_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
 
 ## How To Use 
-Just Open the Notebook **changeHueOpenCV.ipynb** in Google Colab by clicking the **Open in Colab** button above. Here it is again: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeDavila/OpenCV_Rave/blob/main/changeHueOpenCV.ipynb) For this you should know how to run basic notebook. If you don't; well here's an easy one to learn. Just click the play buttons pointed to in the screenshots below. Super easy and quick. 
+Just Open the Notebook **changeHueOpenCV.ipynb** in Google Colab by clicking the **Open in Colab** button above. Here it is again: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeDavila/OpenCV_Rave/blob/main/changeHueOpenCV.ipynb) For this you should know how to run basic notebook. If you don't; well here's an easy one to learn. Just click the play buttons pointed to in the screenshots below. Super easy and quick. **Pretty Much No-Code** just click those play buttons and the pop-up upload image button. If sections like main are open (such that you see the code directly under the title 'Main' before the 'Make gif' title) simply click all the play buttons in those sections.
 
 Once open in colab simply upload your image. I made 2 methods: from local device and from URL. Choose one (only one! if you do both the last method will overwrite the other). Pretty simple: 
 
