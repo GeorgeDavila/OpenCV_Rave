@@ -26,7 +26,8 @@ Once uploaded you simply have to run the 'Parameters' cell (the one with sliders
 
 Your gif should now be on the left hand side (might take a few seconds to show there). If you do not see the files after 30 seconds then close and reopen the files section or  rerun. If you do not see the files section it opened with the folder icon on the left. I It will be labeled according to the parameters used. You can download all the hue variation (ie all the images used to make the gif) by running the cell labeled easily download, will download as a zip file. 
 
-The ones above are all done with parameters color_step = 10, duration = 10, loop = 0. Here are a couple more. First has color_step=1, sencod has color_step=92. Both duration=10, loop=0
+The ones above are all done with parameters color_step = 10, duration = 10, loop = 0. Here are a couple more. First has color_step=1, sencod has color_step=92. Both duration=10, loop=0:
+
 ![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_1_duration_10_loop_0.gif)
 ![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_92_duration_10_loop_0.gif)
 
