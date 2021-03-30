@@ -7,7 +7,11 @@ Make Color Changing GIFs in OpenCV!
 ![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
 ![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
 ![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
-![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+
+![GIF_Source](gifs/inca_monkey_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+![GIF_Source](gifs/inca_chicken_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+![GIF_Source](gifs/inca_monkey_pink_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+![GIF_Source](gifs/inca_chicken_green_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
 
 
 ## How To Use 
@@ -30,6 +34,9 @@ Your gif should now be on the left hand side (might take a few seconds to show t
 **duration_parameter** = how long each frame of the gif shows in milliseconds.
 
 **loop_parameter** = how many times the gif loops. If this =0 it will loop infinitely 
+
+### Variables Changed
+Change solely Hue vector which has bounds [0,179]. Extension might be to chage both saturation and (color) value vectors as well. Those both have bounds of [0,255] (basically the familiar RGB bounds except in OpenCV we mostly work in a BGR based vector space. 
 
 
 ### Technical Notes
