@@ -68,7 +68,7 @@ Made all these on my phone:
 
 ![GIF_Source](gifs/dogememe1_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
 ![GIF_Source](gifs/dogememe1_HueShiftGIF_color_step_145_duration_10_loop_0.gif)
-![GIF_Source](gifs/dogememe2_HueShiftGIF_color_step_35_duration_500_loop_0.gif)
+![GIF_Source](gifs/dogememe2_HueShiftGIF_color_step_38_duration_500_loop_0.gif)
 ![GIF_Source](gifs/dogememe3_HueShiftGIF_color_step_20_duration_1000_loop_0.gif)
 
 
