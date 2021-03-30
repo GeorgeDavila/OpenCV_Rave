@@ -46,7 +46,7 @@ Change solely Hue vector which has bounds [0,179]. Extension might be to chage b
 
 
 ### Technical Notes
-Note that we adjust the **Hue** not really the color value. That's why in the ones with the white background the backgound stays the same color. This means that **if your images are gray/black/white you may not get good results**. Try **bright colors contrasted on solid background for best results**.
+Note that we adjust the **Hue** not really the color value. That's why in the ones with the white background the backgound stays the same color. This means that **if your images are gray/black/white you may not get good results**. Try **bright colors for best results**. It should work on real images, like people, too. But should be colored images for best results. 
 
 Observe the list **my_hue_list**. This determines the pattern. So if you want a new pattern or even a manual pattern you can play with this list. Can theoretically be however long you want but try to keep the values to whole numbers between (and including) 0 and 179. Can actually go outside this bound if needed (ie generate some unique pattern) because we apply a modulo_180 function later in the script, but if doing manually it might just add confusion to go outside these bounds (ie you'll have to do modulo_180 in your head to know what the hue is). 
 
