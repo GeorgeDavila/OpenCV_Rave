@@ -10,8 +10,8 @@ Make Color Changing GIFs in OpenCV!
 
 ![GIF_Source](gifs/inca_monkey_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
 ![GIF_Source](gifs/inca_chicken_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
-![GIF_Source](gifs/inca_monkey_pink_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
 ![GIF_Source](gifs/inca_chicken_green_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+![GIF_Source](gifs/inca_monkey_pink_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
 
 
 ## How To Use 
