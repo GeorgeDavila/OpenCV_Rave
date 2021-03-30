@@ -2,18 +2,24 @@
 Make Color Changing GIFs in OpenCV!
 
 ![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
+![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
 
 
 ## How To Use 
-Just Open the Notebook in Google Colab. Should know how to run basic notebook. If you don't, well just click the play buttons pointed to in the screenshots below. 
+Just Open the Notebook **changeHueOpenCV.ipynb** in Google Colab. Should know how to run basic notebook. If you don't, well just click the play buttons pointed to in the screenshots below. 
 
 Once open in colab simply upload your image. I made 2 methods: from local device and from URL. Choose one (only one! if you do both the last method will overwrite the other). Pretty simple: 
+
 ![screenshot2_source](images/screenshot2.png)
 
 Once uploaded you simply have to run the 'Parameters' cell (the one with sliders). Made parameters selectable as sliders for ease. Then simply run the 'Main' and 'Make GIF' sections. 
+
 ![screenshot1_source](images/screenshot1.png)
 
-Your gif should now be on the left hand side (might take a few seconds to show there). It will be labeled according to the parameters used. You can download all the hue variation (ie all the images used to make the gif) by running the cell labeled easily download, will download as a zip file. 
+Your gif should now be on the left hand side (might take a few seconds to show there). If you do not see the files after 30 seconds then close and reopen the files section or  rerun. If you do not see the files section it opened with the folder icon on the left. I It will be labeled according to the parameters used. You can download all the hue variation (ie all the images used to make the gif) by running the cell labeled easily download, will download as a zip file. 
 
 ### Parameters 
 
