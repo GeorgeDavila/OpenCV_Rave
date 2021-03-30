@@ -1,5 +1,5 @@
 # OpenCV_Rave
-Make Color Changing GIFs in OpenCV! 
+Make Color Changing GIFs in OpenCV! (Scroll down for How to use guide)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeDavila/OpenCV_Rave/blob/main/changeHueOpenCV.ipynb)
 
