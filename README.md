@@ -1,6 +1,8 @@
 # OpenCV_Rave
 Make Color Changing GIFs in OpenCV! (Scroll down for How to use guide)
 
+Hugging Face Spaces Web Demo: https://huggingface.co/spaces/GDavila/GIFify_OpenCV (for images under approx 2MB)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeDavila/OpenCV_Rave/blob/main/changeHueOpenCV.ipynb)
 
 ![GIF_Source](gifs/inca_llama_square_yellowonblack_HueShiftGIF_color_step_10_duration_10_loop_0.gif)
